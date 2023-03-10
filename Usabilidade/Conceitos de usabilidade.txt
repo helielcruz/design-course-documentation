@@ -1,0 +1,30 @@
+Facilidade de uso
+
+Facilidade de aprendizado do usuário: O usuário deve ter facilidade de relembrar depois de um tempo
+
+Maximizar a produtividade: DEve realizar as tarefas rapidamente
+
+Minimizar a taxa de erros: Avisar o usuário e facilitar a correção de forma fácil.
+
+Maximizar a satisfação do usuário: A interface deve dar confiança e segurança ao usuário.
+
+Análise:
+	Auxiliar a encontrar informações: Categorias de nomes, navegação, links, rotulação, organização;
+	Entender as informações: Informações precisam ser claras;
+	Ter prazer na leitura: Envolver a página com exemplos agradáveis de vizualizar (Gráficos, transições)
+	Realização de pesquisas: Auxilio de pesquisa por filtros ou organização que ajuda a encontrar as respostas.
+
+Teste de usabilidade:
+	- É uma técnica de avaliação.
+	- Pode avaliar um produto, um site, aplicativo, protótipo, desenho no papel;
+	- Testes com usuários sem contato com 2 analistas e um usuário por vez;
+	- Roteiro de execução das tarefas do usuário
+	- Um analista observando e anotando os resultados, erros e acertos.
+
+	Ferramentas:
+		Tipos de teste:
+			Protótipo de papel
+			Teste com protótipo navegável (Versão beta do sistema, site ou app, capturando a tela);
+			- Teste de usabilidade 
+			- Teste de usabilidade remoto, cria o protótipo e envia o link para teste via internet.
+				(MARVELAPP.COM / www.quant-ux.com)

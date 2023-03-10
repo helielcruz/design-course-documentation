@@ -1,0 +1,9 @@
+Google, Oferece respostas ou prévias do(s) principais resultados.
+
+Saraiva, oferece prévias com indicações de produtos do que possa ser compatível com a pesquisa.
+
+Amazon, oferece possíveis combinações de termos que possam autocompletar a digitação.
+
+O usuário busca encontrar exatamente o que procura.
+
+Como o usuário tem o retorno da busca?! Em outra página, ou não?!

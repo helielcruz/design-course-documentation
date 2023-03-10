@@ -1,0 +1,6 @@
+Determina o agrupamento e a forma de categorizar as informações
+
+Como organizar o fluxo onde o usuário vai realizar a navegação.
+Por exemplo: Pode-se categorizar sessões de navegação de acordo com as ações
+que poderão ser realizadas. Uma rede social, separa as ações no perfil do usuário, preferencias no site,
+configurações da conta

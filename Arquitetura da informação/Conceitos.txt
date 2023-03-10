@@ -1,0 +1,17 @@
+Definição do fluxo de informações para que a seja facilitada a compreensão do usuário.
+
+Competências:
+
+1- Facilitar a compreensão da informação;
+
+2- Estruturar o conteúdo;
+
+3- Definir a navegação entre as seções do projeto;
+
+4- Definir a interação com o conteúdo;
+
+5- Definir seções de conteúdo;
+
+6- Trabalhar alinhado com a equipe de UX;
+
+7- Ter noção de design e UX;

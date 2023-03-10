@@ -1,0 +1,27 @@
+Sistema de rotulação é entitular seções do sistema;
+Pode ser um filtro de busca pré-definido ou página com informações específica;
+
+Card sorting:
+Papéis ou postits com a organização da interface
+
+| Esportes |
+	| Ciclismo |
+	| Futebol |
+		| Clubes |
+			| Flamengo  |
+			| Palmeiras |
+			| Vasco     |	
+| Música |
+	| Ivete Sangalo |
+	| Lady Gaga |
+| Natureza |
+	| Furacão |
+	| Tsunami |
+
+| Tecnologia |
+	| Personalidades |
+		| Steve Jobs |
+	|Smartphones|
+		| Iphone |
+			| Aplicativos |
+

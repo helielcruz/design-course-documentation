@@ -1,0 +1,28 @@
+Contexto:
+
+- O Objetico do cliente
+- Exigências do cliente
+- A expectativa do cliente
+- Restrições 
+- Recursos
+- Tecnologias
+
+
+Conteúdo:
+
+- Documentos - Tipo de documento será necessário para anotar a produção de conteúdo
+- Volume - Quantidade de informações que terá na interface
+- Ferramentas - Quais as ferramentas que serão utilizadas
+- Aplicações - Aplicação interna, externa, personalizavel?!
+- Tipos de dados - Quais os tipos de dados e como serão utilizados.
+- Estrutura - Como vai ser estruturado o layout e informações a serem entregues ao cliente.
+
+Usuário:
+
+- Público - Implementar testes de usabilidade, traçar um perfil do público alvo.
+- Necessidades.
+- Comportamento.
+- Experiencia do usuário.
+- Tarefa - Quais as ações a serem realizadas.
+- Busca - Tipos de busca que seram realizados.
+- Contexto de uso - Acompanhamento da jornada de uso.

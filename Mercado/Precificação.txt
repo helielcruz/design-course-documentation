@@ -1,0 +1,21 @@
+Gastos:
+	Energia
+	Internet
+	Transporte
+	Softwares
+	Imposto (Taxa MEI ou NF)
+
+	>Inserir o equipamento e Cursos
+		1-Valor da hora de trabalho
+		
+
+Salário atual: 4000
+
+Investimento R$1.500,00 / 12 (meses) Tempo de retorno esperado
+	= R$125
+
+Salário ajustado (com base no investimento):
+R$4.125 + custos(R$825,00) = R$4950 /220 (horas de trabalho mês)
+
+Valor Hora:
+22,50

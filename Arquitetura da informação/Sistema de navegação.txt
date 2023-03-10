@@ -1,0 +1,5 @@
+1 - Navegação Global / Fixa -
+ Disponivel em todo o site ou aplicação independente da página ou seção em que o usuário se encontra.
+
+2- Navegação Local / Variável - Inseridas em áreas estratégicas de conteúdo para interação com o usuário.
+
