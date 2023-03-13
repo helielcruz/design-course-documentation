@@ -1,0 +1,38 @@
+ERGONOMIA E USABILIDADE
+
+	Condução
+		Agrupapento (Categorias)
+		Distinção entre itens
+		Legibilidade (Fácil de ler e identificar)
+		Feedback imediato (Status do sistema)
+
+	Carga de trabalho
+		Brevidade (Resumir tudo)
+		Concisão (Ser direto)
+		Ações mínimas (Atalho)
+		Densidade informacional (Quantidade de conteúdo)
+		
+	Controle explícito
+		Ações explicitas - (Exemplo twitter - Icones nos tweets)
+		Controle do usuário - (Exemplo Twitter - Adicionar e excluir)
+	
+	Adaptabilidade
+		Flexibilidade (Exemplo da Netflix se ao gosto do usuário)
+		Consideração da experiência do usuário
+	
+	Gestão de erros
+		Proteção contra erros (Netflix)
+		Qualidade das mensagens de erros (Netflix)
+		Coreção dos erros (Netflix)
+
+	Homogeneidade/consistência
+		Twitter (Facilidade de aprendizado)
+	
+	Significado de códigos e denominações
+		Central de ajuda para resolver problemas
+
+	Compatibilidade
+		Segundo os autores os resultados das avaliações de usabilidade de uma dada interface mostraram que
+			seus critérios proporcionaram um aumento sistematizado diante da satisfação
+			e desempenho do usuário com relação a tal interface. - (Pesquisar se o produto satisfaz a
+			necessidade do cliente)

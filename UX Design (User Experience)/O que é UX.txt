@@ -1,0 +1,17 @@
+
+	Projetar experiência para o usuário, que facilite e seja satisfatória.
+		Definir o problema a ser resolvido (Porque?)
+		Definir para quem esse problema precisa ser resolvido (Para quem?)
+		Definir o caminho que deve ser percorrido para resolvê-lo. (Como?)
+
+	O que faz um UX Designer?
+		Responde perguntas sobre como tornar a experiencia do usuário melhor
+		(Projetista da experiência do usuário).
+
+
+		Faz o meio campo entre todas as disciplinas e garante que todas elas estejam caminhando
+			juntas em direção ao mesmo objetivo.
+		Ele traduz a estratégia do PO (Product Owner - Dono do Produto) para o resto da equipe
+			de forma visual e interativa.
+		Ele entende o processo de criação do produto, da estratégia, se comunica bem com toda a equipe,
+			 e principalmente, entende de pessoas.

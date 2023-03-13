@@ -1,0 +1,96 @@
+
+	- Briefing
+		É um conjunto de informações ou uma coleta de dados passados em uma reunião para o desenvolvimento
+		de um trabalho ou documento. Deve produzir um roteiro de ação para criar a solução que o cliente procura,
+		ou seja, é como mapear o problema e, com as pistas identificadas, ter ideias pra criar soluções.
+		Um briefing eficaz deve ser breve, contendo apenas informações relevantes.
+
+	- Blueprint
+		Um mapa que mostra todos os pontos de contato entre o consumidor e marca,
+		bem como os processos internos necessários para que essa interação aconteça.
+		É útil para visualizar o caminho que os consumidores percorrem
+		em multiplos canais (site, serviço de atendimento ao consumidor, loja física etc.)
+
+	- Consumer Journey Map
+		Um diagrama que aponta os pontos de contato com o cliente e define pontos de melhoria.
+
+	- User stories
+		As tarefas que o cliente precisa fazer, o detalhamento das tarefas e o caminho que eles percorreram.
+
+	- Personas 
+		Modelos do usuário, para personalizar a experiência
+
+	- Análise de concorrentes
+		O que pretende fazer e o que já fazem.
+
+	- Preposição de valor
+		O que é o produto como/quando será usado. Principais tópicos do produto.
+
+	- Entrevista com stakeholders
+		Roteiro de entrevistas, para coletar insigts sobre os objetivos.
+		Ajuda a priorizar funcionalidades e definir métricas.
+
+	- Brainstorming
+		O processo coletivo de geração de ideias para ajudar a visualizar as possibilidades e soluções
+		para a criação de designs.
+
+	- Moodboard
+		Uma coleção de imagens e referencias que eventualmente se transformarão no estilo visual do produto em questão.
+	
+	- Storyboards
+		Uma espécie de história em quadrinhos da série de ações que os consumidores tomarão enquanto estiverem usando o produto.
+		Traduz funcionalidades de forma mais tangível, em situações reais do dia-a dia.
+
+	- Fluxo de usuário ou telas
+		Trajetória à se seguir entre as telas.
+
+	- Taxonomia
+		Multiplas formas de categorizar.
+
+	- Auditoria de conteúdo
+		É a atividade de listar todo o conteúdo disponível em um site. Será utilizado em todas as etapas do projeto,
+		ajuda a enxergar o projeto com um todo em todas as suas etapas e ajudar a manter o direcionamento.
+
+	- Análise heurística
+		Analise de boas praticas de UX.
+
+	- Sitemap (mapa do site)
+		Criar diagrama do site/sistema
+
+	- Roadmap de funcionalidades
+		Plano de evolução do produto. Ajuda a manter a visão e o direcionamento para atingir a meta que se planeja.
+
+	- Cenários e casos de uso
+		Uma lista exaustiva das interações do usuário com o sistema. (Logado, não-logado, primeira visita, etc).
+
+	- Focus group
+		Painel de discussão, ajuda a entender os sentimentos da pessoas com relação ao produto,
+		Útil quando o time não está muito familiarizado com o público-alvo do cliente.
+	
+	- Pesquisa quantitativa
+		Pode apontar a necessidade de outros tipos de pesquisa ou coletar feedback sobre o produto.
+
+	- Teste de usabilidade
+		2 entrevistadores avaliam em tempo real o uso do produto por um usuário. Ajuda a validar fluxos, layouts e funcionalidades.
+
+	- Card Sorting
+		Pede que os usuários agrupem conteúdos e funcionalidades em categorias.
+		Pode dar inputs valiosos sobre hierarquia de conteúdo, organização e taxonomia.
+
+	- Teste A/B
+		Dá a escolha de mais de um layout para verificar qual o usuário prefere
+
+	- Eyetracking
+		O que o cliente mais olha na tela, dá informaçãoes sobre os principais pontos de foco na tela.
+
+	- Sktches
+		Criar esboço usando papel e caneta da interface, com anotações.
+
+	- Wireframes
+		Rascunho da interface, pode ser no papel ou não.
+
+	- Prototipo
+		Um protótipo é uma simulação quase perfeita de como será o site com as funcionalidades de clique e design já implementadas.
+
+	- Biblioteca de padrões e guia de estilo
+		Uma lista prática com os padrões que serão utilizados no site.

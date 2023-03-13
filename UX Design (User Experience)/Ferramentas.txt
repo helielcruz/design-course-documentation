@@ -1,0 +1,30 @@
+	Office - Word, Excel
+
+	MindMeiter - Criação de mapa mental
+
+	XMind - Criação de mapa mental (Existe versão grátis)
+
+	Optimal Workshop - Ajuda a criar pesquisas de experiência de usuários (Existe versão gratuíta)
+
+	XSort - Card Sort (Relacionado à usabilidade)
+
+	Gliffy - Criação de diagramas para identificar o fluxo para a localização dos componentes da aplicação
+		 de forma visual.
+
+	draw.io - Criação de diagramas (Fluxogramas)
+
+	proto.io (Existe versão gratuita)
+
+	invisionapp.com - Prototipagem e testes de usabilidade (Plataforma paga)
+
+	PowerMockup - Criação de wireframes
+
+	marvelapp.com - Prototipagem
+
+	quant-ux.com - Prototipagem
+
+	pencil.evolus.vn - Criação de wireframes
+
+	Trello - Organização de tarefas
+
+	Google Forms - Questionários online

@@ -1,0 +1,28 @@
+	Design de interação
+		Forma como ocorre a experiência na interação do usuário com o sistema.
+	
+	UI - User Interface
+		Tudo que vai interagir com o usuário:
+			Botôes
+			imagens
+			Listas de links
+			Menus
+
+	Design visual
+		Tipografia
+		Ilustraçãoes
+		Layout
+		Espaços em branco (Respiros)
+	
+	Usabilidade
+		Diminui a carga cognitiva
+		Diminui a carga de aprendizagem
+
+	Arquitetura da informação
+		Fica claro o caminho e a forma de uso do sistema/site
+
+	Funcionalidade
+		Usuário consegue concluir a tarefa com facilidade
+		88% dos usuários não voltam a utilizar um site/sitema devido a má experiência do usuário.
+
+	

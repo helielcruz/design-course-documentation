@@ -1,0 +1,4 @@
+
+tympanus.net - Exemplos de componentes de desenvolvimento.
+
+Animações deixam o site mais dinâmico, tornando a experiência do usuário mais completa e satisfatória.

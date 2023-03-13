@@ -1,0 +1,11 @@
+Guia de estilo é um documento que vai informar qual o padrão à ser utilizado para a criação do design.
+
+Padronização da interface
+	designmodo.github.io/Flat-UI/
+
+	Paleta de cores;
+	Tipografia;
+	Icones;
+	Modelos de layout
+
+styletil.es // Quando já tiver um wireframe e for criar o guia de estilo, para direcionar como criar um guia de estilo.

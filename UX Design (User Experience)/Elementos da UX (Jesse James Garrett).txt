@@ -1,0 +1,20 @@
+	Estrutura de Jesse James Garrett
+		Estratégia
+			Expectativas do usuário
+			Objetivos do site/sistema
+		Esboço
+			Quais as funcionalidades e especificações que o sistema vai ter.
+		
+		Estrutura
+			Quais páginas vão ter
+			Quais telas vão ser apresentadas
+			Como as telas vão estar hierarquizadas
+			Quais os caminhos que o usuário vai percorrer
+
+		Esqueleto
+			Onde estaram os elementos de cada página
+			Quais os links que estaram no menu
+			Quais campos seram apresentados em um formulário
+			
+		Visual Design (Superfície)
+			Como o usuário vê a versão final do site/sistema
