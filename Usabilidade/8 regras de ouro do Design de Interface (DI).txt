@@ -1,0 +1,22 @@
+	Consistência
+		- Sequencia de ações similiares para procedimentos similares. Manter um padrão visual para as cores, Layout e fontes.
+			Utilizar a mesma terminologia em menus.
+	Atalhos para usuários assíduos
+		- Teclas de atalho, macros e navegação simples facilitam e agilizam a interação do usuário mais experientes
+			com a interface.
+	Feedback informativo
+		- Toda e qualquer ação do usuário requer uma resposta do sistema, cujo qual será mais ou menos explicativa
+			dependendo do tipo de ação a ser executada.
+	Diálogos que indiquem término da ação
+		- As sequencias de ações do sistema deve ser organizada de tal forma que o usuário consiga entender
+			 os passos e saiba quando cada um deles for executado com sucesso.
+	Prevenção de tratamento de erros
+		- A interface não pode dar vias para o usuário cometer erros graves, e caso ocorram erros,
+			 devem haver mecaniosmos que tratem, corrijam na medida do possível, e caso não seja possível, instrua o usuário para uma possível solução.
+	Reversão de ações
+		- Sempre que possível, as ações devem ser reversíveis, de forma que tranquilize o usuário a lhe dá mais coragem para explorar o sistema.
+	Controle
+		- Os usuários mais experientes devem ter a sensação de que dominam os processos do sistema e que ele apenas responde as suas ações.
+	Baixa carga de memorização
+		- O sistema deve conter uma interface simples para memorização. Para isso requer uma boa estrutura e equilibrio para relacionar elementos
+			 e facilitar a memorização subjetiva das telas, sem exigir esforço.

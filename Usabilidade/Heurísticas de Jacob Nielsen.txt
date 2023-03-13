@@ -1,0 +1,46 @@
+Análise Heurística
+"É um método ou processo criado com o objetivo de encontrar soluções para um problema." - Fabricio Teixeira
+
+As Heurísticas de Nielsen são:
+	Feedback - Visibilidade do estado do sistema
+		- O sistema deve informar continuamente ao usuário sobre o que ele está fazendo.
+		- 10 segundos é o limite para manter a atenção do usuário
+	
+	Falar a linguagem do usuário - Sistema voltado a simplicidade de entendimento do cliente.
+
+	Saídas claramente demarcadas
+		- Saídas claramente demarcadas
+		- O usuário controla o sistema. Ele pode, a qualquer momento, abortar uma tarefa, ou desfazer uma operação
+			e retornar ao estado anterior.
+
+	Consistência - Criação de padrões
+		- Um mesmo comando ou ação deve ter sempre o mesmo efeito. Sem complexidade.
+		- A mesma operação deve ser apresentada na mesma localização e deve ser formatada/apresentada
+			 da mesma maneira para facilitar o entendimento.
+
+	Previnir erros - Minimizar risco de erros do usuário
+		- Evitar situações de erros
+		- Conhecer situações que mais provocam erros, e modificar a interface para que esses erros não ocorram.
+	
+	Minimizar a sobrecarga de memória do usuário
+		- O sistema deve mostrar os elementos de duiálogo e permitir que o usuário faça suas escolhas, sem a necessidade de lembrar um comando específico.
+
+	Atalhos
+		- Para usuários experientes executarem as operações mais rapidamente.
+		- Abreviações, teclas de função, duplo clique no mouse, função de volta em sistemas de hipertexto.
+		- Atalhos também servem para recuperar informações que estão em uma profundidade na arvore navegacional a partir da interface principal.
+			(Demarcar os caminhos até o local onde está, como as migalhas de pão em um site)
+
+	Diálogos simples e naturais
+		- Deve-se apresentar exatamente a informação que o usuário está buscando, nem mais nem menos.
+		- A sequencia da interação e o acesso aos objetos deve ser compatível com o modo pelo qual o
+			usuário realiza suas tarefas.
+
+	Boas mensagens de erro
+		- Linguagem clara e sem códigos.
+		- Devem ajudar o usuário a entender e resolver o problema.
+		- Não devem culpar ou intimidar o usuário.
+
+	Ajuda e documentação
+		O ideal é que um software seja tão fácil e simples de usar (intuitivo) que não necessite de ajuda ou documentação
+		Se for necessária a ajuda deve estar facilmente acessível on-line.
