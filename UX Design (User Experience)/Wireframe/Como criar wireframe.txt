@@ -1,0 +1,20 @@
+Entender o briefing
+	Busque tudo o que o cliente deseja inserir nesse processo, sem exagerar na quantidade de informações.
+
+Pesquise bem antes de iniciar o esboço
+	Pesquise concorrentes
+	Sites de referencia
+	Modelos parecidos
+	Crie um painel semantico com as referencia que deseja seguir para o projeto.
+
+Faça um esboço inicial p/ chegar a novas ideias
+	Leve o tempo que precisar nessa fase, ela vai te trazer diversos insights
+
+Produza o wireframe
+	Siga a ideia central que foi gerada na fase de esboço e criação de conceito.
+
+Validação de ideia com o cliente (Aprovação 1)
+	Valide a ideia geral com cliente antes de passar para o próximo passo. Evite dores de cabeça!
+
+Ajustes, Aprovação 2, UI e Aprovação 3
+	Ajuste o que for preciso e passe para a produção da UI
