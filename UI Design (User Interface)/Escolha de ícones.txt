@@ -1,0 +1,11 @@
+Os ícones devem seguir um ou 2 padrões, mas devem ser congruentes com as seções e ações do site.
+Devem ser utilizados para resumir a funcionalidade de um site.
+
+Sites:
+	Icons8.com
+	Flaticon.com
+	linearicons
+	fontawesome.io
+	material.io (google)
+	glyficons.com
+	icomoon.io

@@ -1,0 +1,8 @@
+Cor base: #9620A8 (Roxo médio)
+Cor 2: #54216B (Roxo escuro)
+Cor 3: #36FF77 (Verde suave)
+Cor 4: #DD3A3A (Vermelho Suave)
+Cor 5: #D6C364 (Bege)
+Cor 6: #333333 (Preto suave)
+Cor 7: #CFCDBA (Cinza)
+Cor 8: #FFFFFF (Branco Neve)

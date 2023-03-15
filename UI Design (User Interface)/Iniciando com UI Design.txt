@@ -1,0 +1,14 @@
+
+* Ler o Wireframe para ter uma noção melhor sobre quais formas de desenvolver o layout.
+
+* Anotar os pontos que irão facilitar o entendimento.
+
+* Criação da paleta de cores
+	A logo pode indicar o direcionamento que se deve traçar na escolha da paleta de cores.
+	Verificar com o cliente as cores que deverão ser utilizadas.
+	Verificar referencias do ramo da página.
+
+* Criação do padrão de tipografia
+	As fontes devem ser congruentes com o ramo do site.
+	Uma fonte para títulos
+	Uma fonte para texto
