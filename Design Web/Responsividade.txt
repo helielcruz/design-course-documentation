@@ -1,0 +1,3 @@
+Um modelo de apresentação que vai adaptando seus componentes de acordo com o tamanho da tela. Geralmente ocorre do desktop para o mobile.
+
+Em CSS existem propriedades @media para referenciar tamanho e posicionamento dos elementos na tela.
