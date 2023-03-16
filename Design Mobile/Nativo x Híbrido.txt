@@ -1,0 +1,45 @@
+Aplicações Mobile
+
+	Performance
+		* Nativas
+			Linguagem específica | Melhor Performance
+		
+		* Híbridas
+			Aplicam camadas de tecnologia, como WebViews, plugins, nas Apis Nativas que causam impacto na performance.
+
+	Desenvolvimento
+		* Nativas
+			Maior tempo de desenvolvimento, e maior investimento financeiro.
+
+		* Híbridas
+			Utiliza tecnologias web (HTML5, CSS E JavaScript)
+			Maior custo beneficio pela vantagem de poder ter código reutilizável na web.
+
+	Interface
+		*Nativas
+			Se beneficiem das funcionalidades e animações e padrões de UI dos sistemas operacionais.
+
+		*Híbridas
+			Precisa de mais conhecimento técnico para imitar um aplicativo nativo.
+
+	Recursos disponíveis
+		*Nativas
+			Recursos específicos para cada plataforma, dificultando a integração multiplataforma.
+
+		*Híbridas
+			Muito maleáveis com relação a integração, mas dependem de plugins externos.
+
+
+	Segurança
+		*Nativas
+			Muito seguras
+		
+		*Híbridas
+			Menos seguras (Mas muito viáveis)
+
+	
+
+	Aplicações para criar aplicativos:
+		Adobe PhoneGap
+		Cordova
+		Ionic

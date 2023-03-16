@@ -1,0 +1,50 @@
+1.0 Entender o negócio
+	* Briefing
+		Entender a proposta do cliente
+
+	* BrainStorm
+		Reunião com a equipe para angariar ideias e avaliar os melhores caminhos para colocar o projeto em prática.
+
+1.1 Entender o negócio
+	* Proposição de negócio
+		Uma análise sobre as necessidades e expectativas, englobando tudo que rodeia a empresa.
+	
+	* Análise dos concorrentes
+		Entender o que já é feito pelos concorrentes, pontos bons e ruins.
+
+2.0 Conhecer o público-alvo
+	* Entrevista com stakeholders
+	* Criação de persona dos usuários
+
+3.0 Projetar a utilização
+	* User stories
+		Quem é o usuário, como ele vai utilizar o aplicativo
+	* StoryBoard
+		Define de forma visual uma jornada de utilização do projeto.
+
+3.1 Projetar a utilização
+	* Journey Map
+		Define de forma fluxo-visual todos os pontos de contato da aplicação com o cliente de forma detalhada.
+
+	* Caso de uso
+		Documento onde informa de maneira descritiva e visual a forma de uso da aplicação.
+
+4.0 Pesquisa e Criação
+	* Moodboard
+		Painel com todas as refencias para o aplicativo.
+
+	* Skecth/Wireframes
+		Onde se cria o esqueleto da aplicação, como serão as seções da aplicação.
+
+5.0 Definição do fluxo
+	* Workflow
+		Informa o fluxo do aplicativo, como irão funcionar os direcionamentos.
+
+	* RoadMap Funcional
+		Documentação com todas as funcionalidades que existem e que poderão existir na aplicação.
+
+6.0 Criando o visual
+	* User Interface
+		Criar o protótipo
+
+	* Criar guia de estilo
