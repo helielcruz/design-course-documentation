@@ -1,3 +1,4 @@
 Para verificar os espaçamentos em dp, usar o link: https://m3.material.io/foundations/layout/understanding-layout/spacing
+	* Verificar padrões de espaçamento
 
 Para fazer a conversão para pixels, usar o site: https://www.pixplicity.com/dp-px-converter
