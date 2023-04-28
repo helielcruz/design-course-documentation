@@ -1,0 +1,23 @@
+Nome do responsável da Behance
+
+	Sobre a empresa Behance:
+		Behance é um site que hospeda portfólios de designers com a missão de ajuda-los a expor os seus trabalhos.
+
+	Como a descreveria?
+		Líder no setor, o Behance busca sempre estar a frente do mercado, inovando e oferecendo praticidade e soluções
+	para os designers de todo o mundo.
+
+	Qual o público alvo?
+		Desiners de 18 à 60 anos.
+
+	Possuí preferencia de cores?
+		As cores principais são azul(#0057FF) e branco(#FFFFFF) e preto(#191919).
+
+	Onde a marca será usada?
+		Site, aplicativo.
+
+	Qual mensagem seu produto/serviço quer passar?
+		Inovações, ideias, inpirações.
+
+	Possui alguma informação ou observação adicional que seja importante no projeto? Requerimento específico?
+		O site precisa manter a suavidade e adicionar ideias que tragam inspirações de design para quem acessá-lo.

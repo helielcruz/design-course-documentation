@@ -1,0 +1,11 @@
+Todos os concorrentes seguem a mesma linha de apresentação na Home
+	Navegação superior
+	Portfólios em destaque com uma imagem de apresentação de média proporção em destaque e em lista
+
+Ello.co redireciona para outra página com textos parecido com um blog na página inicial.
+Na sessão Discover apresenta a imagem em destaque postada.
+
+Adobe Portfólio também redireciona para a página do autor
+
+
+
